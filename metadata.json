@@ -1,0 +1,7 @@
+{
+  "name": "Risol Tracker",
+  "description": "A modern, minimalist application to track risol consignment locations, sales, and generate daily recaps.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
